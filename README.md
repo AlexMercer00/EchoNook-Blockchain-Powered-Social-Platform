@@ -1,7 +1,6 @@
 1. Objective:Redefining online interactions through blockchain innovation.
 
-2. Tech Stack:
-3. 
+2. Tech Stack: 
 Solidity: Crafting secure smart contracts.
 
 Ethereum: Enabling decentralized and tamper-resistant communication.
